@@ -1,0 +1,13 @@
+.custom-radio {
+    border:1px solid black;
+    margin:20px;
+    padding:20px;
+    float:left;
+    width:300px;
+    cursor:pointer;
+}
+
+.custom-radio .extra-info{
+    display:block;
+    margin-top:20px;
+}
